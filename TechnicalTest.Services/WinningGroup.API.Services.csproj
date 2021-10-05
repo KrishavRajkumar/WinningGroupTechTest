@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TechnicalTest.Models\WinningGroup.API.Models.csproj" />
+    <ProjectReference Include="..\TechTest.Entities\WinningGroup.API.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
